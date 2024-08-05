@@ -28,6 +28,7 @@ export default function MarketingLayout({
   };
   return (
     <div className="flex flex-row relative ">
+      <span>Test</span>
       <div
         className={cn(
           `h-screen w-[250px]  hidden lg:flex border-r border-gray-900`,
